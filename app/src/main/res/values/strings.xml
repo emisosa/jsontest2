@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jsontest</string>
+    <string name="films_navigation_tool">Emi Sosa json exercise</string>
+    <string name="films_title">Films navigator</string>
+    <string name="release_date_text">release: %1$s</string>
+    <string name="connectivity_error_msg">Connectivity issue</string>
+</resources>
